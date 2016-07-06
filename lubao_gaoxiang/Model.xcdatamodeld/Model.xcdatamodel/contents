@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Data" representedClassName=".Data" syncable="YES">
+        <attribute name="auctionPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="auctionState" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="carImg" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="carState" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="preferentialQuota" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Data" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
+</model>

@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (3.2.0)
+  - Kingfisher (2.0.3)
+  - LTMorphingLabel (0.1.1)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - MJRefresh (3.0.8)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SnapKit (0.19.1)
+  - Spring (1.0.3)
+  - SVProgressHUD (2.0-beta8)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Kingfisher (~> 2.0)
+  - LTMorphingLabel
+  - MagicalRecord (~> 2.3.0)
+  - MJRefresh (~> 3.0.7)
+  - ReactiveCocoa (~> 2.5)
+  - SnapKit (~> 0.19.1)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - SVProgressHUD (~> 2.0-beta)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  Kingfisher: 44c1f1912f19371a67d701e67c96d6bb45ca1c8d
+  LTMorphingLabel: dfc40f43a0dcf81867b1f29431f34e861a5f1b35
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  MJRefresh: fafde8f18f4afd66b434331a9beb67a6c0264056
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SnapKit: eff58d6e3451bf2f482db2eccf86aecf371dc62d
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SVProgressHUD: 6e48a1dda09ce3b58adc41d013baed3a8e8980ff
+
+COCOAPODS: 0.39.0
